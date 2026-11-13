@@ -1,0 +1,11 @@
+Animal_Type,Age,Stay_Days,Health_Status,Adoption
+Dog,2,10,Healthy,Yes
+Cat,1,20,Healthy,Yes
+Dog,5,60,Healthy,No
+Cat,3,45,Needs_Care,No
+Dog,1,15,Healthy,Yes
+Cat,2,30,Healthy,Yes
+Dog,7,90,Needs_Care,No
+Cat,4,70,Healthy,No
+Dog,3,25,Healthy,Yes
+Cat,1,12,Healthy,Yes
